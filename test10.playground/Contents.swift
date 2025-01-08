@@ -6,3 +6,4 @@ let arraySecond = [6,7,8,9,10]
 // объедини два массива в один
 let sumArrays = arrayFirst + arraySecond
 print(sumArrays)
+// комментарий

@@ -5,3 +5,4 @@ var summa = 0
 for number in arrayBanknotes {
     summa += number
 }
+print("Сумма банкнот: \(summa) доллара.")

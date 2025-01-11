@@ -7,3 +7,4 @@ let arraySecond = [6,7,8,9,10]
 let sumArrays = arrayFirst + arraySecond
 print(sumArrays)
 // комментарий
+// проверка: если меняем файл в XCode, то появится ли зеленый квадратик в GitHub?
